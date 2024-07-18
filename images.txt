@@ -8,3 +8,4 @@ whyour/qinglong:2.17.6
 whyour/qinglong:latest
 shellspec/openwrt:19.07.7
 shellspec/openwrt:latest
+kangkang223/openwrt:z4
