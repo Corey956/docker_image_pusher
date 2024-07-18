@@ -5,3 +5,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 whyour/qinglong:2.17.6
 whyour/qinglong:latest
+shellspec/openwrt:19.07.7
+shellspec/openwrt:latest
