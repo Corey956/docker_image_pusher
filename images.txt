@@ -9,4 +9,6 @@ whyour/qinglong:latest
 shellspec/openwrt:19.07.7
 shellspec/openwrt:latest
 kangkang223/openwrt:z4
-arm64v8/mysql:latest
+mysql:8.0
+mongo:laster
+redis:6.2
