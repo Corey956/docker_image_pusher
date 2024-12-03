@@ -10,5 +10,5 @@ shellspec/openwrt:19.07.7
 shellspec/openwrt:latest
 kangkang223/openwrt:z4
 mysql:8.0
-mongo:laster
+mongo:latest
 redis:6.2
