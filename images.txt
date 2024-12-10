@@ -12,3 +12,6 @@ kangkang223/openwrt:z4
 mysql:8.0
 mongo:latest
 redis:6.2
+1panel/maxkb:latest
+yuucn/iyuuplus:latest
+sitoi/dailycheckin:latest
