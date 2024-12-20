@@ -16,3 +16,4 @@ iyuucn/iyuuplus:latest
 ddsderek/iyuuplus:latest
 sitoi/dailycheckin:latest
 superng6/qbittorrentee:latest
+zonty/nas-tools:2.9.1
