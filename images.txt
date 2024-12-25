@@ -17,4 +17,5 @@ ddsderek/iyuuplus:latest
 sitoi/dailycheckin:latest
 superng6/qbittorrentee:latest
 zonty/nas-tools:2.9.1
-
+johngong/qbittorrent:4.6.0-4.6.0.10
+linuxserver/jackett:latest
