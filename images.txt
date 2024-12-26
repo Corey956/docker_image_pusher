@@ -10,6 +10,7 @@ shellspec/openwrt:19.07.7
 shellspec/openwrt:latest
 kangkang223/openwrt:z4
 mysql:8.0
+mysql:5.7
 mongo:latest
 redis:6.2
 iyuucn/iyuuplus:latest
@@ -20,3 +21,10 @@ zonty/nas-tools:2.9.1
 johngong/qbittorrent:4.6.0-4.6.0.10
 linuxserver/jackett:latest
 linuxserver/jackett:0.22.1123
+jellyfin/jellyfin:latest
+linuxserver/jellyfin:latest
+linuxserver/jellyfin:10.10.3
+nyanmisaka/jellyfin:latest
+jenkins:2.60.3
+jenkins:2.7.4
+
