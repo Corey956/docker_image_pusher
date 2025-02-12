@@ -13,6 +13,7 @@ mysql:8.0
 mysql:5.7
 mongo:latest
 redis:6.2
+redis:7
 iyuucn/iyuuplus:latest
 ddsderek/iyuuplus:latest
 sitoi/dailycheckin:latest
