@@ -28,5 +28,4 @@ linuxserver/jellyfin:10.10.3
 nyanmisaka/jellyfin:latest
 jenkins:2.60.3
 jenkins:2.7.4
-bili-history-fetcher-web:dev
-bilibili-api:dev
+yanyuwangluo/qinglong:2.17.9
